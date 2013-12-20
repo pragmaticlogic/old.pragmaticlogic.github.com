@@ -76,7 +76,7 @@ body {
 h1 {
   font-size: 2.4em;
   text-decoration: none;
-  color: #b00;
+  color: #008001;
   line-height: 1.2em;
   margin-bottom: .6em;
 }
@@ -90,12 +90,12 @@ h2 {
 h3 {
   font-size: 1.3em;
   margin: 2em 0 1em;
-  color: #b00;
+  color: #008001;
 }
 
 a {
   text-decoration: none;
-  color: #b00;
+  color: #008001;
 }
 
 blockquote {
@@ -115,7 +115,7 @@ cite {
 -------------------------------------------------------------- */
 
 header {
-  background: #b00;
+  background: #393939;
   color: #fff;
   position: fixed;
   top: 0;
@@ -125,7 +125,7 @@ header {
 }
 
 header div {
-  width: 560px;
+  width: 700px;
   margin: 0 auto;
 }
 
@@ -141,7 +141,7 @@ header a {
 }
 
 header nav {
-  float: right;
+  float: left;
 }
 
 header nav li {
@@ -152,7 +152,7 @@ header nav a {
   text-transform: uppercase;
   font-size: .9em;
   display: block;
-  padding: .45em 0 .45em 1em;
+  padding: .45em 1em .45em 0em;
 }
 
 header nav a:hover {
@@ -163,7 +163,7 @@ header nav a:hover {
 -------------------------------------------------------------- */
 
 footer  {
-  width: 560px;
+  width: 700px;
   margin: 0 auto;
   font-size: .8em;
   font-style: italic;
@@ -177,7 +177,7 @@ footer  {
 -------------------------------------------------------------- */
 
 #content {
-  width: 560px;
+  width: 700px;
   padding: 0 40px;
   margin: 5em auto 3em;
   text-align: justify;
@@ -237,17 +237,17 @@ footer  {
 
 #home {
   text-align: left;
-  background: url(/imgs/gears.png) no-repeat 0 20px;
+  /* background: url(/imgs/gears.png) no-repeat 0 20px; */
 }
 
 #home #posts {
-  width: 240px;
+  /*width: 240px;*/
   float: left;
 }
 
 #home #intro {
-  width: 240px;
-  float: right;
+  /*width: 240px;
+  float: right;*/
   margin-bottom: 1.4em;
 }
 
