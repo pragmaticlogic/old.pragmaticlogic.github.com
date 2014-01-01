@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		
 		<title>{{ page.title }} | {{ site.theme.site_name }}</title>
-		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css" />
+		<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/foundation/5.0.2/css/foundation.css" />
 		<link rel="stylesheet" href="/css/style.css">
     
 		<script type="text/javascript">
@@ -24,6 +24,7 @@
 		</script>
 	</head>
 	<body>
+		<!--
 		<div class="pure-g-r" id="layout">
 		    <div class="sidebar pure-u">
 		        <header class="header">
@@ -73,21 +74,22 @@
 		    }, 'a[href="#"]');
 		});
 		</script>
+		-->
 		
-		<!-----------
 		<div class="row">
-    		<div class="large-12 columns">
-      			<div class="nav-bar right">
-       				<ul class="button-group">
-         				<li><a href="/" class="button" title="Home">Home</a></li>
-         				<li><a href="/archive.html" class="button" title="Archive">Archives</a></li>
-         				<li><a href="/about.html" class="button" title="About me">About me</a></li>         		
-        			</ul>
-      			</div>
-      			<h1>Kevin Le <small>My programming notes.</small></h1>
-      			<hr />
-    		</div>
-  		</div>
+		    <div class="large-12 columns">
+		      <div class="nav-bar right">
+		       <ul class="button-group">
+		         <li><a href="#" class="button">Link 1</a></li>
+		         <li><a href="#" class="button">Link 2</a></li>
+		         <li><a href="#" class="button">Link 3</a></li>
+		         <li><a href="#" class="button">Link 4</a></li>
+		        </ul>
+		      </div>
+		      <h1>Blog <small>This is my blog. It's awesome.</small></h1>
+		      <hr />
+		    </div>
+		</div>
 		
 		<div class="row">
 			<div class="large-12 columns" role="content">
@@ -112,16 +114,18 @@
 		</footer>
 		
 		<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.js"></script>
-    		<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.0.2/js/foundation.min.js"></script>
-    		
-    		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.4/gist-embed.min.js"></script>
-    		
-    		<script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/foundation/5.0.2/js/foundation.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.7.1/modernizr.dev.js"></script>
+		
+		
+		<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/1.4/gist-embed.min.js"></script>
+		
+		<script>
       		$(document).foundation();
 
       		var doc = document.documentElement;
       		doc.setAttribute('data-useragent', navigator.userAgent);
     	</script>
-		---->
+		
 	</body>
 </html>
