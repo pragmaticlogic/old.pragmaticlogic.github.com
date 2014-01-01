@@ -24,7 +24,7 @@ To get everything working properly, a few things need to be configured.
 
 *Example:*
 
-<script src="https://gist.github.com/1442661.js?file=_config.yml"> </script>
+<script src="https://gist.github.com/stephan83/1442661.js"></script>
 
 ### Customize the home and about page
 
