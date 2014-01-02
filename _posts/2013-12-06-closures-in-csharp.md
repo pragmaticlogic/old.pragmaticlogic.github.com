@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Closure in C#
+title: Closures in C#
 baseline: 
 tags: [c#, closure]
 ---
