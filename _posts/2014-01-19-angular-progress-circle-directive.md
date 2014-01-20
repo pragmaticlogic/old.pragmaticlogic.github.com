@@ -13,6 +13,6 @@ Here are the examples.  The example shows the progress circle in a modal, which 
 
 This example shows that it stills works in any page.
 
-<iframe style="border: 1px solid #999;width: 100%; height: 300px" src="http://embed.plnkr.co/jr8e4AfY6rR2KTW3R4v2/preview" frameborder="0">&#160;</iframe>
+<iframe style="border: 1px solid #999;width: 100%; height: 400px" src="http://embed.plnkr.co/jr8e4AfY6rR2KTW3R4v2/preview" frameborder="0">&#160;</iframe>
 
 
