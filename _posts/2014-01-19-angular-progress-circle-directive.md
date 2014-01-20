@@ -9,6 +9,6 @@ The result that I achieve is [https://github.com/pragmaticlogic/angular-bootstra
 
 Here are the examples, one works in a page and the other works in an Agular bootstrap modal:
 
-http://embed.plnkr.co/jr8e4AfY6rR2KTW3R4v2/preview
+<iframe style="border: 1px solid #999;width: 100%; height: 300px" src="http://embed.plnkr.co/jr8e4AfY6rR2KTW3R4v2/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-http://embed.plnkr.co/h8zgE5PnL3zVCInU5YsC/preview
+<iframe style="border: 1px solid #999;width: 100%; height: 300px" src="http://embed.plnkr.co/h8zgE5PnL3zVCInU5YsC/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
