@@ -7,8 +7,10 @@ The [Angular UI](http://angular-ui.github.io/) team gave us a really nice [progr
 
 The result that I achieve is [https://github.com/pragmaticlogic/angular-bootstrap-progress-circle](https://github.com/pragmaticlogic/angular-bootstrap-progress-circle).  As you can see in the [README](https://github.com/pragmaticlogic/angular-bootstrap-progress-circle/blob/master/README.md) file and from the codes, the part of the code that draws the circle in the canvas is from [Stéphane Bégaudeau](https://github.com/sbegaudeau).  I only had to change Angular directive part to make it work (in a modal).
 
-Here are the examples, one works in a page and the other works in an Agular bootstrap modal:
+Here are the examples.  The first one shows the progress circle in a modal, which was my original goal.  The second shows that it stills works in any page.
+
+<iframe style="border: 1px solid #999;width: 100%; height: 300px" src="http://embed.plnkr.co/h8zgE5PnL3zVCInU5YsC/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <iframe style="border: 1px solid #999;width: 100%; height: 300px" src="http://embed.plnkr.co/jr8e4AfY6rR2KTW3R4v2/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<iframe style="border: 1px solid #999;width: 100%; height: 300px" src="http://embed.plnkr.co/h8zgE5PnL3zVCInU5YsC/preview" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
