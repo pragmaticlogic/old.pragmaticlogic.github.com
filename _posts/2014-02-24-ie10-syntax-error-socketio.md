@@ -10,6 +10,7 @@ It's [clearly documented](http://caniuse.com/#search=websocket) that websocket i
 The reason that the web has not reported on this issue, I think, is because most sample chat application, in order to illustrate the concept of using socket.io do not have the sample app configured to run on port 80.
 
 If you look in the source code of socket.io.js, when the following line
+    
     ```
     this.websocket = new Socket(this.prepareUrl() + query);
     ```
