@@ -11,9 +11,9 @@ The reason that the web has not reported on this issue, I think, is because most
 
 If you look in the source code of socket.io.js, when the following line
     
-    ```
-    this.websocket = new Socket(this.prepareUrl() + query);
-    ```
+```
+this.websocket = new Socket(this.prepareUrl() + query);
+```
 
 
 is executed, the value returned by this.prepareUrl() is 
