@@ -22,4 +22,4 @@ theme:
   featured_wordcount: 20
   
   #enable syntax highlight using code fence
-  markdown: redcarpet
+  markdown: kramdown
