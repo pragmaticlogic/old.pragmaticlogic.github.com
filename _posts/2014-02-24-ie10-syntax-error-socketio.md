@@ -41,4 +41,4 @@ problem took 99% of the time, and to fix the problem, it took the remaining 1%.
 But I'll take this over the reverse situation any day. Anyway, the fix is fairly
 simple:
 
-<script src="https://gist.github.com/pragmaticlogic/9182946.js"/script>
+<script src="https://gist.github.com/pragmaticlogic/9182946.js"></script>
