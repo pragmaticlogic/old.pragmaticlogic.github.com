@@ -155,8 +155,6 @@ code {
 	display: inline-block;
 	font-size: .8em;
 	color: #555;
-	border: 1px dotted #fafafa;
-	border-radius: 0.4em;
 	padding: 0 .3em;
 	margin: -1px 0;
 }
