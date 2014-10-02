@@ -150,6 +150,17 @@ a:focus {
     background: none;
 }
 
+code {
+	font-family: Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
+	display: inline-block;
+	font-size: .8em;
+	color: #555;
+	border: 1px solid #ddd;
+	border-radius: 0.4em;
+	padding: 0 .3em;
+	margin: -1px 0;
+}
+
 @media (max-width: 767px) {
     .sidebar {
         width: 100%;
